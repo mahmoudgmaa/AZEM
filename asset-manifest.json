@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AZEM/static/css/main.687e285b.chunk.css",
+    "main.js": "/AZEM/static/js/main.87fb0192.chunk.js",
+    "main.js.map": "/AZEM/static/js/main.87fb0192.chunk.js.map",
+    "runtime-main.js": "/AZEM/static/js/runtime-main.db4337a4.js",
+    "runtime-main.js.map": "/AZEM/static/js/runtime-main.db4337a4.js.map",
+    "static/js/2.dbd21f2f.chunk.js": "/AZEM/static/js/2.dbd21f2f.chunk.js",
+    "static/js/2.dbd21f2f.chunk.js.map": "/AZEM/static/js/2.dbd21f2f.chunk.js.map",
+    "static/js/3.a4f825c1.chunk.js": "/AZEM/static/js/3.a4f825c1.chunk.js",
+    "static/js/3.a4f825c1.chunk.js.map": "/AZEM/static/js/3.a4f825c1.chunk.js.map",
+    "index.html": "/AZEM/index.html",
+    "static/css/main.687e285b.chunk.css.map": "/AZEM/static/css/main.687e285b.chunk.css.map",
+    "static/js/2.dbd21f2f.chunk.js.LICENSE.txt": "/AZEM/static/js/2.dbd21f2f.chunk.js.LICENSE.txt",
+    "static/media/video.7d1ea6a9.mp4": "/AZEM/static/media/video.7d1ea6a9.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db4337a4.js",
+    "static/js/2.dbd21f2f.chunk.js",
+    "static/css/main.687e285b.chunk.css",
+    "static/js/main.87fb0192.chunk.js"
+  ]
+}
